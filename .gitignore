@@ -1,0 +1,51 @@
+# Byte-compiled files
+*.pyc
+*.pyo
+__pycache__/
+*.pyd
+
+# Virtual environments
+.venv/
+.env/
+*.env
+*.venv
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Cache files
+*.cache
+.cache/
+
+# Distribution / Packaging
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Logs
+*.log
+logs/
+
+# Data science
+*.csv
+*.tsv
+*.parquet
+*.h5
+*.hdf5
+*.db
+*.sqlite
+
+# IDE and OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Secrets
+*.key
+*.crt
+*.pem
+.secret
+.env
+
